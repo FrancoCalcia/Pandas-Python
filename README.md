@@ -1,4 +1,4 @@
-# Proyecto de Análisis de Datos Meteorológicos con Pandas y Matplotlib
+# Proyecto de Análisis de datos meteorológicos con Pandas y Matplotlib
 Este proyecto de análisis de datos meteorológicos utiliza Python y se basa en las bibliotecas Pandas para el análisis de datos y Matplotlib para la visualización de gráficos. A continuación, se presenta una descripción general del proyecto
 
 ## Objetivo:
